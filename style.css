@@ -1,0 +1,12 @@
+body {
+    color: crimson;
+    background-color: orange;
+}
+
+#table1 {
+    width: 8009px;
+    border-spacing: 0px;
+    background-color: white;
+}
+
+.width150 {}
